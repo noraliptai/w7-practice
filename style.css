@@ -1,3 +1,12 @@
 html {
-    background-color: lavender;
+    background-color: rgb(48, 47, 47);
+}
+
+#root {
+    color: rgb(215, 214, 214);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    max-width: 80vw;
 }
